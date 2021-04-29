@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=3;
-Typer.file="niall-dagg.txt";
+Typer.file="padhraig-loughlin.txt";
 Typer.init();
 
 var timer = setInterval("t();", 30);
