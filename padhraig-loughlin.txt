@@ -1,5 +1,5 @@
 <span id="a">Padhraig@Loughlin</span>:<span id="b">~</span><span id="c">$</span> cd PadhraigLoughlin/<!-- laglaglaglaglaglag -->About_Me
-<span id="a">Padhraig@Loughlin</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag --> padhraig-loughlin.txt<br/><br/>
+<span id="a">Padhraig@Loughlin</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->padhraig-loughlin.txt<br/><br/>
 My favorite code quote, "<span id="k">Things Aren't Always #000000 And #FFFFFF</span>". <!-- sjkfhskjf -->
 
 Hey There! My Name is Padhraig Loughlin. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
