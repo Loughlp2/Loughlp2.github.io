@@ -5,7 +5,7 @@ I like to live by the words of T. S. Elliot, "<span id="k">If you're not in over
 
 Hey There! My Name is Padhraig Loughlin. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>I am a General Business student in Dublin City University. </p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
-<p> I have experience in some computing technologies and concepts including OO programming in Python and Java. I also really enjoy frontend development, most notably creating web apps using Reactjs. I love learning new things and am always willing to apply myself to the task at hand. <a href="link"></a></p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p> I have experience in some computing technologies and concepts including Python and HTML/CSS, but my real strenghts lie in new technolgies and finance. I'm currently the general manager of Futureshock VR Arcade and specialising in finance at Dublin City University. <a href="link"></a></p><!-- delaydelaydelaydelaydelaydelaydelay -->
 <p>In my spare time, I love learning about new technologies and what is new in the software development industry. You can usually find me coding on smaller projects when not in university. <br><br><br>Here are some of the projects i have created in Reactjs! An <a href="http://ec2-34-245-24-4.eu-west-1.compute.amazonaws.com:3000/">Online Shift-Work Creation Platform</a>, a<a href="https://daggn3.github.io/Pokedex_React_Bootstrap"> React Pokedex</a>, and a <a href="https://daggn3.github.io/React-Weather/"> React Weather App</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
 <p> You can find me on my other Profiles here at: <br> <a href="https://www.linkedin.com/in/niall-dagg-a01020156/">linkedin</a> and <br> <a href="https://github.com/daggn3">Github</a>.</p>
 
